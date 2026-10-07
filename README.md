@@ -2,6 +2,10 @@
 
 Investigue se existe uma relação entre a atividade econômica brasileira e o fluxo de veículos nas rodovias. Pesquise os dados, organize uma tabela e construa um modelo de regressão linear em Python.
 
+O **Produto Interno Bruto (PIB)** é o valor dos bens e serviços finais produzidos em um país durante um período.
+
+O **índice de volume do PIB** acompanha a evolução da produção, descontando o efeito das mudanças de preços. Ele é construído encadeando as variações reais da produção e adota um período de referência igual a 100. Por exemplo, um índice de 120 representa um volume de produção 20% maior que o da referência. Na série utilizada, a média de 1995 corresponde a 100.
+
 ## 1. Pesquisa dos dados
 
 Pesquise o índice de volume do PIB no IBGE e o Índice ABCR de fluxo total de veículos no Brasil. Utilize as séries **sem ajuste sazonal** e selecione **20 anos completos em comum**, preferencialmente de 2006 a 2025.
