@@ -56,6 +56,7 @@ Organize o trabalho em um notebook com as fontes consultadas, os dados, o códig
 
 Envie o **link de um repositório no GitHub** contendo:
 
+- README.md explicando a tarefa (use esse como base)
 - notebook com o código e os resultados das análises;
 - bases de dados utilizadas;
 - conclusões sobre os resultados obtidos.
